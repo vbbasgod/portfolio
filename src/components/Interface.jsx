@@ -44,9 +44,9 @@ const AboutSection = () => {
             delay: 1.5,
           }}
         >
-          I develop webapages and curious to learn  frontend technologies.
+          I develop webpages and curious to learn  frontend technologies.
           <br />
-          learn how to build 3D appss
+          
         </motion.p>
         <motion.button
           className={`bg-indigo-600 text-white py-4 px-8 
